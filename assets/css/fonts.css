@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "OpenSansBold";
+  src: url("../fonts/OpenSans-Bold.ttf") format("truetype");
+ }
+
+@font-face {
+  font-family: "OpenSansRegular";
+  src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
+ }
+
+ @font-face {
+  font-family: "OpenSansLight";
+  src: url("../fonts/OpenSans-Light.ttf") format("truetype");
+ }
+
+ @font-face {
+  font-family: "SourceSansPro";
+  src: url("../fonts/SourceSansPro-Light.ttf") format("truetype");
+ }
